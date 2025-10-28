@@ -60,10 +60,16 @@ Gracefully frees memory and exits the program.
    
 ## 🧑‍💻 Example Interaction
 
-Simple Sudoku (C) with linked list of empty cells
-Choose: 1) Play manually 2) Auto-solve 3) Show initial puzzle 4) Exit
-Enter 1-4: 2
-Solving...
+```text
+Simple Sudoku (C) with linked list of empty cells  
+Choose:  
+1) Play manually  
+2) Auto-solve  
+3) Show initial puzzle  
+4) Exit  
+
+Enter 1-4: 2  
+Solving...  
 Solved puzzle:
 
 <pre>
@@ -81,7 +87,7 @@ Solved puzzle:
 | 3 4 5 | 2 8 6 | 1 7 9 |
 +-------+-------+-------+
 </pre>
-
+```
 ---
 
 🧾 License
